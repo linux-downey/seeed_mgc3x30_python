@@ -9,7 +9,7 @@ Plugin the module,check the module detection by :
 ```
 i2cdetect -y 1
 ```
-The i2c address of seeed mgc3x30 is **0x68**.
+The i2c address of seeed mgc3x30 is **0x42**.
 
 ***  
 
